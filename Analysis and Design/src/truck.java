@@ -11,6 +11,7 @@ public class truck {
 	
 	public truck(int id, String model, String color, double net_weight, double max_weight)
 	{
+		
 		this.id = id;
 		this.model = model;
 		this.color = color;
