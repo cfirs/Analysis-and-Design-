@@ -16,7 +16,7 @@ public class BL
 		try
 		{
 
-			c = DriverManager.getConnection("jdbc:sqlite:D:/SQLiteStudio/transportation");
+			c = DriverManager.getConnection("jdbc:sqlite:C:/Users/shachar3210/Google Drive/ניתוץ/SQLiteStudio/transportation");
 
 		} 
 		catch ( Exception e )
